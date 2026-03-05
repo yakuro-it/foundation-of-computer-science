@@ -29,3 +29,9 @@ python3 task1_encoding_protocol_demo.py
 cd task2-seating
 python3 task2_seating_solver.py
 ```
+
+---
+
+## ER-Diragram Reference
+
+<img width="1626" height="589" alt="erdiagram" src="https://github.com/user-attachments/assets/fdd1777c-c321-4722-8351-53dc0ee6f4ca" />
