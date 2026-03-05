@@ -1,0 +1,6 @@
+Student,City,Friends
+Alice,London,"Bob;Charlie"
+Bob,Manchester,"Alice"
+Charlie,London,"Alice"
+Diana,Birmingham,"Eve"
+Eve,Manchester,"Diana"
